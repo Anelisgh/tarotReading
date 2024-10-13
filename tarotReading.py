@@ -1,6 +1,6 @@
 import random
 from enum import Enum
-
+# Tart card game
 class TarotCard:
     def __init__(self, number, name, explanation):
         self.number = number
